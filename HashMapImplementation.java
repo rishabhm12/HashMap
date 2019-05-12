@@ -26,7 +26,7 @@ this.value = value;
   
  
 int size;			//tells use the number of elements in HashMap
-  int bucketSize;		// number of buckets
+int bucketSize;		// number of buckets
   
 //map is the bucket ArrayList
     ArrayList < MapNode < K, V >> map;
